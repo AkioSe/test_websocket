@@ -1,0 +1,2 @@
+# node_modules を git から除外
+node_modules/
