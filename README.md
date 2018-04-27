@@ -1,6 +1,10 @@
 # test_websocket
 websocketのテスト用リポジトリ
 
- - ブランチ作成 test_branch_427
- 
-
+## フォルダ構成
++ src/
+    + node.js のソース
++ doc/
+    + 解説など
++ README.md
+    + ドキュメント
